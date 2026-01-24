@@ -1,5 +1,3 @@
-<img width="1919" height="1079" alt="Без имени" src="https://github.com/user-attachments/assets/4cbdae24-1986-4be4-900b-d47337d31c09" />
-
 
 ![](https://komarev.com/ghpvc/?username=milesfromhere)
 <!--
