@@ -1,5 +1,6 @@
-![UICIDEBOY-NEWCHAINSSAMESHACKLES-uicideboy1080ph264-ezgif com-cut](https://github.com/user-attachments/assets/923ed1dd-93de-4cdc-8c6a-ab270a81ab1d)
 
+
+![UICIDEBOY-NEWCHAINSSAMESHACKLES-](https://github.com/user-attachments/assets/5ca4047f-bdfc-47a6-8187-43a35f3d2a1f)
 
 ![](https://komarev.com/ghpvc/?username=milesfromhere)
 <!--
