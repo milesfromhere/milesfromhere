@@ -18,25 +18,13 @@
 
 ---
 
-### 🛠 Технологии и инструменты
-
-**Языки программирования:**  
-![Python](https://shields.io)
-![JavaScript](https://shields.io)
-![TypeScript](https://shields.io)
-
-**Фреймворки и библиотеки:**  
-![React](https://shields.io)
-![Node.js](https://shields.io)
-
-**Базы данных и инструменты:**  
-![PostgreSQL](https://shields.io)
-![Git](https://shields.io)
-![Docker](https://shields.io)
-
----
-
-### 📊 Статистика GitHub
-
-![Статистика GitHub](https://vercel.app)
-![Топ языков](https://vercel.app)
+<p align="left">
+  <img src="https://githubusercontent.com" alt="python" width="40" height="40"/>
+  <img src="https://githubusercontent.com" alt="javascript" width="40" height="40"/>
+  <img src="https://githubusercontent.com" alt="typescript" width="40" height="40"/>
+  <img src="https://githubusercontent.com" alt="react" width="40" height="40"/>
+  <img src="https://githubusercontent.com" alt="nodejs" width="40" height="40"/>
+  <img src="https://githubusercontent.com" alt="postgresql" width="40" height="40"/>
+  <img src="https://githubusercontent.com" alt="git" width="40" height="40"/>
+  <img src="https://githubusercontent.com" alt="docker" width="40" height="40"/>
+</p>
